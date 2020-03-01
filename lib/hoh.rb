@@ -48,10 +48,9 @@ hash = {
     sub_category: {
       label: "Class"
       sub_category: {
-        label: "Order"
+
       }
     }
   }
-  hash
 }
 end
