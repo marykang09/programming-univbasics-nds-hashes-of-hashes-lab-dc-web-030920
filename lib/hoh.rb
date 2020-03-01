@@ -52,6 +52,6 @@ hash = {
       }
     }
   }
+  hash
 }
-hash
 end
